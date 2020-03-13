@@ -36,7 +36,7 @@ mediaNotification.onEventChanged.listen((data){
 });
 ```
 <img src="https://github.com/coderkkc/media_notification/blob/master/image/Screenshot_2020-03-13-10-22-18-678_com.chen.ttasm.jpg" width="300px">
-<img src="https://github.com/coderkkc/media_notification/blob/master/image/Screenshot_2020-03-13-10-22-11-888_com.chen.ttasm.jpg" style="zoom:50%">
+<img src="https://github.com/coderkkc/media_notification/blob/master/image/Screenshot_2020-03-13-10-22-11-888_com.chen.ttasm.jpg" width="300px">
 
 This project is a starting point for a Flutter
 [plug-in package](https://flutter.dev/developing-packages/),
