@@ -35,7 +35,8 @@ mediaNotification.onEventChanged.listen((data){
   }
 });
 ```
-
+https://github.com/coderkkc/media_notification/blob/master/image/Screenshot_2020-03-13-10-22-18-678_com.chen.ttasm.jpg
+https://github.com/coderkkc/media_notification/blob/master/image/Screenshot_2020-03-13-10-22-11-888_com.chen.ttasm.jpg
 
 This project is a starting point for a Flutter
 [plug-in package](https://flutter.dev/developing-packages/),
