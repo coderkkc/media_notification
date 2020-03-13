@@ -24,16 +24,16 @@ mediaNotification.play('下山', '要不要买菜', 'http://p1.music.126.net/Aj4
 mediaNotification.pause();
 mediaNotification.resume();
 mediaNotification.onEventChanged.listen((data){
-      if(data=="pre"){
-        switchPreviousAudio();
-      }else if(data=="next"){
-        switchNextAudio();
-      }else if(data=="resume"){
-        resume();
-      }else if(data=="pause"){
-        pause();
-      }
-    });
+  if(data=="pre"){
+    switchPreviousAudio();
+  }else if(data=="next"){
+    switchNextAudio();
+  }else if(data=="resume"){
+    resume();
+  }else if(data=="pause"){
+    pause();
+  }
+});
 ```
 
 
